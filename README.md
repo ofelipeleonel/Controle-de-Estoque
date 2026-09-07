@@ -2,3 +2,7 @@
 Discente: Felipe Leonel Machado
 
 ## Simulação das Operações
+### Produto
+- Cadastrar Produto
+- Cadastrar Quantidade Produto
+- Operação Entrada de Estoque
