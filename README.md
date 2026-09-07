@@ -6,3 +6,4 @@ Discente: Felipe Leonel Machado
 - Cadastrar Produto
 - Cadastrar Quantidade Produto
 - Operação Entrada de Estoque
+- Simulação de Hotfix que corrige o rótulo do campo quantidade
