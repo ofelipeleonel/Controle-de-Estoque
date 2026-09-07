@@ -5,3 +5,4 @@ Discente: Felipe Leonel Machado
 ### Produto
 - Cadastrar Produto
 - Cadastrar Quantidade Produto
+- Operação Entrada de Estoque
